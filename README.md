@@ -1,16 +1,84 @@
-# insta_clone
+# Instagram Clone
 
-A new Flutter project.
+This project is a simple Instagram clone built with Flutter and Firebase. It replicates some of the core features of Instagram, including a responsive UI, authentication, post sharing, liking, commenting, user search, following, real-time updates, and signing out.
+
+<p align="center">
+  <img src="https://github.com/Shashank-grd/Insta-Clone-For-Realtime-Data-Fetching/blob/main/lib/Screenshots/sc1.jpg" alt="example1" width="200" height="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Shashank-grd/Insta-Clone-For-Realtime-Data-Fetching/blob/main/lib/Screenshots/sc2.jpg" alt="example2" width="200" height="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+  <!-- Add space between rows -->
+<br><br>
+
+<p align="center">
+  <img src="https://github.com/Shashank-grd/Insta-Clone-For-Realtime-Data-Fetching/blob/main/lib/Screenshots/sc3.jpg" alt="example1" width="200" height="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Shashank-grd/Insta-Clone-For-Realtime-Data-Fetching/blob/main/lib/Screenshots/sc4.jpg" alt="example2" width="200" height="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+  <!-- Add space between rows -->
+<br><br>
+
+<p align="center">
+  <img src="https://github.com/Shashank-grd/Insta-Clone-For-Realtime-Data-Fetching/blob/main/lib/Screenshots/sc4-1.jpg" alt="example1" width="200" height="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Shashank-grd/Insta-Clone-For-Realtime-Data-Fetching/blob/main/lib/Screenshots/sc5.jpg" alt="example2" width="200" height="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+  <!-- Add space between rows -->
+<br><br>
+
+<p align="center">
+  <img src="https://github.com/Shashank-grd/Insta-Clone-For-Realtime-Data-Fetching/blob/main/lib/Screenshots/sc5-1.jpg" alt="example1" width="200" height="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Shashank-grd/Insta-Clone-For-Realtime-Data-Fetching/blob/main/lib/Screenshots/sc6.jpg" alt="example2" width="200" height="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+  <!-- Add space between rows -->
+<br><br>
+
+<p align="center">
+  <img src="https://github.com/Shashank-grd/Insta-Clone-For-Realtime-Data-Fetching/blob/main/lib/Screenshots/sc7.jpg" alt="example1" width="200" height="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Shashank-grd/Insta-Clone-For-Realtime-Data-Fetching/blob/main/lib/Screenshots/sc8.jpg" alt="example2" width="200" height="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+## Features
+
+- **Responsive Instagram UI:** The UI is designed to be responsive and adapt to different screen sizes for a seamless user experience across devices.
+
+- **Email & Password Authentication:** Users can sign up and log in using their email address and password.
+
+- **Share Posts with Caption:** Users can upload and share posts along with captions.
+
+- **Display Posts with Caption:** Shared posts are displayed in the feed along with their captions.
+
+- **Like & Comment on Posts:** Users can like and comment on posts.
+
+- **Search Users:** Users can search for other users by their usernames.
+
+- **Follow Users:** Users can follow other users to see their posts in their feed.
+
+- **Display User Posts, Followers & Following:** User profiles display information about the user's posts, followers, and users they are following.
+
+- **Real-Time Updates:** Any changes to posts, likes, comments, followers, or following are reflected in real-time without the need to refresh the page.
+
+- **Sign Out:** Users can sign out of their accounts securely.
+
+## Technologies Used
+
+- **Flutter:** Used for building the user interface and managing the application's state.
+
+- **Firebase:** Utilized for authentication, real-time database, and storage for user data and media files.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with this project, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone this repository to your local machine.
+2. Ensure you have Flutter installed on your system.
+3. Create a Firebase project and set up authentication, database, and storage services.
+4. Configure Firebase in your project by adding the Firebase configuration details.
+5. Run the Flutter project on an emulator or a physical device.
+6. Interact with the app to explore its features.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Contributing
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Contributions are welcome! If you'd like to contribute to this project, feel free to open an issue or submit a pull request.
+
